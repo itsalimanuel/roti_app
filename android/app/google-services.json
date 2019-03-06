@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282452433047",
+    "firebase_url": "https://rotiapplication-37cf6.firebaseio.com",
+    "project_id": "rotiapplication-37cf6",
+    "storage_bucket": "rotiapplication-37cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282452433047:android:89f6f6d4077bb090",
+        "android_client_info": {
+          "package_name": "group.nexe.rotiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282452433047-nfc8oglmca27hcj1qlscuj67gjrkgrmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "group.nexe.rotiapp",
+            "certificate_hash": "315b1185e16a4d3ab0f30dc63c1631c0d2bd1f92"
+          }
+        },
+        {
+          "client_id": "282452433047-ifnou1ebmb54glhm85bp4svq2hginocl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PNg6rjzBcuByHfuTFzvQc1c1B_sDDnM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282452433047-ifnou1ebmb54glhm85bp4svq2hginocl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

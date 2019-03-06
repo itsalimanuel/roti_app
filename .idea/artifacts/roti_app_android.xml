@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="roti_app_android">
+    <output-path>$PROJECT_DIR$/out/artifacts/roti_app_android</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+      </options>
+    </properties>
+    <root id="archive" name="roti_app_android.apk">
+      <element id="android-final-package" facet="roti_app_android/android/Android" />
+    </root>
+  </artifact>
+</component>
